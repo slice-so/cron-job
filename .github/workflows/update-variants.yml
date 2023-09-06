@@ -23,7 +23,7 @@ jobs:
         run: npm install
 
       - name: Run the script
-        run: npx ts-node src/index.ts
+        run: npx ts-node src/updateVariants.ts
 
       - name: Commit and push changes
         run: |
