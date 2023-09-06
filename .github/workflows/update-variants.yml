@@ -3,8 +3,8 @@ name: Update JSON Variants
 on:
   workflow_dispatch:
   schedule:
-    # This example triggers the workflow every day at 5:30 and 17:30 UTC:
-    - cron: "23 5,21 * * *"
+    # This code triggers the workflow every 12 h
+    - cron: "0 */12 * * *"
 
 jobs:
   build:
