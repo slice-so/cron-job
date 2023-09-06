@@ -1,0 +1,35 @@
+name: Update JSON Variants
+
+on:
+  schedule:
+    # This example triggers the workflow every day at 5:30 and 17:30 UTC:
+    # - cron: "30 5,17 * * *"
+    # This example triggers the workflow every 5 minutes, for testing
+    - cron: "*/5 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "18" # or your desired version
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run the script
+        run: npx ts-node src/index.ts
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email ${{secrets.email}}
+          git config --local user.name ${{secrets.name}}
+          git add -A
+          git commit -m "Update JSON variants" || echo "No changes to commit"
+          git push
