@@ -2,10 +2,10 @@ name: Update JSON Variants
 
 on:
   schedule:
+    - cron: "*/5 * * * *"
     # This example triggers the workflow every day at 5:30 and 17:30 UTC:
     # - cron: "30 5,17 * * *"
     # This example triggers the workflow every 5 minutes, for testing
-    - cron: "*/5 * * * *"
 
 jobs:
   build:
