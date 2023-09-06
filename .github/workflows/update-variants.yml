@@ -1,6 +1,7 @@
 name: Update JSON Variants
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
     # This example triggers the workflow every day at 5:30 and 17:30 UTC:
