@@ -30474,6 +30474,156 @@
     "colorCode": "#222985",
     "size": null
   },
+  "17569": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "S"
+  },
+  "17570": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "S"
+  },
+  "17571": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "S"
+  },
+  "17572": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "S"
+  },
+  "17573": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "S"
+  },
+  "17574": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "M"
+  },
+  "17575": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "M"
+  },
+  "17576": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "M"
+  },
+  "17577": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "M"
+  },
+  "17578": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "M"
+  },
+  "17579": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "L"
+  },
+  "17580": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "L"
+  },
+  "17581": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "L"
+  },
+  "17582": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "L"
+  },
+  "17583": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "L"
+  },
+  "17584": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "XL"
+  },
+  "17585": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "XL"
+  },
+  "17586": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "XL"
+  },
+  "17587": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "XL"
+  },
+  "17588": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "XL"
+  },
+  "17589": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "2XL"
+  },
+  "17590": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "2XL"
+  },
+  "17591": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "2XL"
+  },
+  "17592": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "2XL"
+  },
+  "17593": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "2XL"
+  },
+  "17594": {
+    "color": "Faded Black",
+    "colorCode": "#424242",
+    "size": "3XL"
+  },
+  "17595": {
+    "color": "Faded Bone",
+    "colorCode": "#f3ede4",
+    "size": "3XL"
+  },
+  "17596": {
+    "color": "Faded Eucalyptus",
+    "colorCode": "#d1cbad",
+    "size": "3XL"
+  },
+  "17597": {
+    "color": "Faded Grey",
+    "colorCode": "#aa9c91",
+    "size": "3XL"
+  },
+  "17598": {
+    "color": "Faded Khaki",
+    "colorCode": "#dbc4a2",
+    "size": "3XL"
+  },
   "17676": {
     "color": "Burgundy",
     "colorCode": "#8b243a",
@@ -30488,5 +30638,85 @@
     "color": "Light Avio Blue",
     "colorCode": "#88c7eb",
     "size": null
+  },
+  "17714": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15"
+  },
+  "17715": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15"
+  },
+  "17716": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Plus"
+  },
+  "17717": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Plus"
+  },
+  "17718": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro"
+  },
+  "17719": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro"
+  },
+  "17720": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro Max"
+  },
+  "17721": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro Max"
+  },
+  "17722": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15"
+  },
+  "17723": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15"
+  },
+  "17724": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Plus"
+  },
+  "17725": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Plus"
+  },
+  "17726": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro"
+  },
+  "17727": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro"
+  },
+  "17728": {
+    "color": "Glossy",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro Max"
+  },
+  "17729": {
+    "color": "Matte",
+    "colorCode": "#ffffff",
+    "size": "iPhone 15 Pro Max"
   }
 }
