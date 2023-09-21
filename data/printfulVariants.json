@@ -30614,6 +30614,86 @@
     "colorCode": "#dbc4a2",
     "size": "3XL"
   },
+  "17600": {
+    "color": "Forest",
+    "colorCode": "#1C3727",
+    "size": "S"
+  },
+  "17601": {
+    "color": "Forest",
+    "colorCode": "#1C3727",
+    "size": "M"
+  },
+  "17602": {
+    "color": "Forest",
+    "colorCode": "#1C3727",
+    "size": "L"
+  },
+  "17603": {
+    "color": "Forest",
+    "colorCode": "#1C3727",
+    "size": "XL"
+  },
+  "17604": {
+    "color": "Heather Dust",
+    "colorCode": "#e5d9c9",
+    "size": "S"
+  },
+  "17605": {
+    "color": "Heather Dust",
+    "colorCode": "#e5d9c9",
+    "size": "M"
+  },
+  "17606": {
+    "color": "Heather Dust",
+    "colorCode": "#e5d9c9",
+    "size": "L"
+  },
+  "17607": {
+    "color": "Heather Dust",
+    "colorCode": "#e5d9c9",
+    "size": "XL"
+  },
+  "17608": {
+    "color": "Maroon",
+    "colorCode": "#581227",
+    "size": "S"
+  },
+  "17609": {
+    "color": "Maroon",
+    "colorCode": "#581227",
+    "size": "M"
+  },
+  "17610": {
+    "color": "Maroon",
+    "colorCode": "#581227",
+    "size": "L"
+  },
+  "17611": {
+    "color": "Maroon",
+    "colorCode": "#581227",
+    "size": "XL"
+  },
+  "17612": {
+    "color": "Mustard",
+    "colorCode": "#E6A133",
+    "size": "S"
+  },
+  "17613": {
+    "color": "Mustard",
+    "colorCode": "#E6A133",
+    "size": "M"
+  },
+  "17614": {
+    "color": "Mustard",
+    "colorCode": "#E6A133",
+    "size": "L"
+  },
+  "17615": {
+    "color": "Mustard",
+    "colorCode": "#E6A133",
+    "size": "XL"
+  },
   "17676": {
     "color": "Burgundy",
     "colorCode": "#8b243a",
