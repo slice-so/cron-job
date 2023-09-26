@@ -27239,6 +27239,36 @@
     "colorCode": "#7a9096",
     "size": "3XL"
   },
+  "16523": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "S"
+  },
+  "16524": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "M"
+  },
+  "16525": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "L"
+  },
+  "16526": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "XL"
+  },
+  "16527": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "2XL"
+  },
+  "16528": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "3XL"
+  },
   "16529": {
     "color": "Seafoam",
     "colorCode": "#69a999",
@@ -30474,6 +30504,86 @@
     "colorCode": "#222985",
     "size": null
   },
+  "17497": {
+    "color": "Berry",
+    "colorCode": "#8e5a7b",
+    "size": "4XL"
+  },
+  "17498": {
+    "color": "Flo Blue",
+    "colorCode": "#5669be",
+    "size": "4XL"
+  },
+  "17499": {
+    "color": "True Navy",
+    "colorCode": "#3c3d51",
+    "size": "4XL"
+  },
+  "17500": {
+    "color": "Black",
+    "colorCode": "#080808",
+    "size": "4XL"
+  },
+  "17501": {
+    "color": "Grey",
+    "colorCode": "#92928f",
+    "size": "4XL"
+  },
+  "17502": {
+    "color": "Violet",
+    "colorCode": "#9a8ad2",
+    "size": "4XL"
+  },
+  "17504": {
+    "color": "Ice Blue",
+    "colorCode": "#7a9096",
+    "size": "4XL"
+  },
+  "17505": {
+    "color": "Watermelon",
+    "colorCode": "#d15c68",
+    "size": "4XL"
+  },
+  "17506": {
+    "color": "Blue Jean",
+    "colorCode": "#707e8d",
+    "size": "4XL"
+  },
+  "17507": {
+    "color": "Ivory",
+    "colorCode": "#fef1d0",
+    "size": "4XL"
+  },
+  "17508": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "4XL"
+  },
+  "17509": {
+    "color": "Brick",
+    "colorCode": "#8d4b54",
+    "size": "4XL"
+  },
+  "17511": {
+    "color": "Butter",
+    "colorCode": "#ffe09e",
+    "size": "4XL"
+  },
+  "17512": {
+    "color": "Red",
+    "colorCode": "#bb1035",
+    "size": "4XL"
+  },
+  "17513": {
+    "color": "Crimson",
+    "colorCode": "#bb5151",
+    "size": "4XL"
+  },
+  "17514": {
+    "color": "Seafoam",
+    "colorCode": "#69a999",
+    "size": "4XL"
+  },
   "17569": {
     "color": "Faded Black",
     "colorCode": "#424242",
@@ -30703,6 +30813,146 @@
     "color": "Mustard",
     "colorCode": "#E6A133",
     "size": "XL"
+  },
+  "17648": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "S"
+  },
+  "17649": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "M"
+  },
+  "17650": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "L"
+  },
+  "17651": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "XL"
+  },
+  "17652": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "2XL"
+  },
+  "17653": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "3XL"
+  },
+  "17654": {
+    "color": "Chambray",
+    "colorCode": "#e7feff",
+    "size": "4XL"
+  },
+  "17655": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "S"
+  },
+  "17656": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "M"
+  },
+  "17657": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "L"
+  },
+  "17658": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "XL"
+  },
+  "17659": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "2XL"
+  },
+  "17660": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "3XL"
+  },
+  "17661": {
+    "color": "Granite",
+    "colorCode": "#a6abaa",
+    "size": "4XL"
+  },
+  "17662": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "S"
+  },
+  "17663": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "M"
+  },
+  "17664": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "L"
+  },
+  "17665": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "XL"
+  },
+  "17666": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "2XL"
+  },
+  "17667": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "3XL"
+  },
+  "17668": {
+    "color": "Terracotta",
+    "colorCode": "#ff9364",
+    "size": "4XL"
+  },
+  "17669": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "S"
+  },
+  "17670": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "M"
+  },
+  "17671": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "L"
+  },
+  "17672": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "XL"
+  },
+  "17673": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "2XL"
+  },
+  "17674": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "3XL"
+  },
+  "17675": {
+    "color": "Paprika",
+    "colorCode": "#fe4747",
+    "size": "4XL"
   },
   "17676": {
     "color": "Burgundy",
