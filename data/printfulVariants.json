@@ -28039,6 +28039,31 @@
     "colorCode": "#ffffff",
     "size": "32oz"
   },
+  "16787": {
+    "color": "Black",
+    "colorCode": "#0b0b0b",
+    "size": "XS"
+  },
+  "16788": {
+    "color": "Black",
+    "colorCode": "#0b0b0b",
+    "size": "S"
+  },
+  "16789": {
+    "color": "Black",
+    "colorCode": "#0b0b0b",
+    "size": "M"
+  },
+  "16790": {
+    "color": "Black",
+    "colorCode": "#0b0b0b",
+    "size": "L"
+  },
+  "16791": {
+    "color": "Black",
+    "colorCode": "#0b0b0b",
+    "size": "XL"
+  },
   "16792": {
     "color": "Solid White Triblend",
     "colorCode": "#ffffff",
@@ -28073,6 +28098,181 @@
     "color": "Solid White Triblend",
     "colorCode": "#ffffff",
     "size": "3XL"
+  },
+  "16799": {
+    "color": "Dark Heather",
+    "colorCode": "#424248",
+    "size": "XS"
+  },
+  "16800": {
+    "color": "Dark Heather",
+    "colorCode": "#424248",
+    "size": "S"
+  },
+  "16801": {
+    "color": "Dark Heather",
+    "colorCode": "#424248",
+    "size": "M"
+  },
+  "16802": {
+    "color": "Dark Heather",
+    "colorCode": "#424248",
+    "size": "L"
+  },
+  "16803": {
+    "color": "Dark Heather",
+    "colorCode": "#424248",
+    "size": "XL"
+  },
+  "16809": {
+    "color": "Maroon",
+    "colorCode": "#47171c",
+    "size": "XS"
+  },
+  "16810": {
+    "color": "Maroon",
+    "colorCode": "#47171c",
+    "size": "S"
+  },
+  "16811": {
+    "color": "Maroon",
+    "colorCode": "#47171c",
+    "size": "M"
+  },
+  "16812": {
+    "color": "Maroon",
+    "colorCode": "#47171c",
+    "size": "L"
+  },
+  "16813": {
+    "color": "Maroon",
+    "colorCode": "#47171c",
+    "size": "XL"
+  },
+  "16814": {
+    "color": "Navy",
+    "colorCode": "#050c1d",
+    "size": "XS"
+  },
+  "16815": {
+    "color": "Navy",
+    "colorCode": "#050c1d",
+    "size": "S"
+  },
+  "16816": {
+    "color": "Navy",
+    "colorCode": "#050c1d",
+    "size": "M"
+  },
+  "16817": {
+    "color": "Navy",
+    "colorCode": "#050c1d",
+    "size": "L"
+  },
+  "16818": {
+    "color": "Navy",
+    "colorCode": "#050c1d",
+    "size": "XL"
+  },
+  "16819": {
+    "color": "Red",
+    "colorCode": "#da0a1a",
+    "size": "XS"
+  },
+  "16820": {
+    "color": "Red",
+    "colorCode": "#da0a1a",
+    "size": "S"
+  },
+  "16821": {
+    "color": "Red",
+    "colorCode": "#da0a1a",
+    "size": "M"
+  },
+  "16822": {
+    "color": "Red",
+    "colorCode": "#da0a1a",
+    "size": "L"
+  },
+  "16823": {
+    "color": "Red",
+    "colorCode": "#da0a1a",
+    "size": "XL"
+  },
+  "16824": {
+    "color": "Royal",
+    "colorCode": "#1d50a4",
+    "size": "XS"
+  },
+  "16825": {
+    "color": "Royal",
+    "colorCode": "#1d50a4",
+    "size": "S"
+  },
+  "16826": {
+    "color": "Royal",
+    "colorCode": "#1d50a4",
+    "size": "M"
+  },
+  "16827": {
+    "color": "Royal",
+    "colorCode": "#1d50a4",
+    "size": "L"
+  },
+  "16828": {
+    "color": "Royal",
+    "colorCode": "#1d50a4",
+    "size": "XL"
+  },
+  "16829": {
+    "color": "Sport Grey",
+    "colorCode": "#cacacd",
+    "size": "XS"
+  },
+  "16830": {
+    "color": "Sport Grey",
+    "colorCode": "#cacacd",
+    "size": "S"
+  },
+  "16831": {
+    "color": "Sport Grey",
+    "colorCode": "#cacacd",
+    "size": "M"
+  },
+  "16832": {
+    "color": "Sport Grey",
+    "colorCode": "#cacacd",
+    "size": "L"
+  },
+  "16833": {
+    "color": "Sport Grey",
+    "colorCode": "#cacacd",
+    "size": "XL"
+  },
+  "16834": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "XS"
+  },
+  "16835": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "S"
+  },
+  "16836": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "M"
+  },
+  "16837": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "L"
+  },
+  "16838": {
+    "color": "White",
+    "colorCode": "#ffffff",
+    "size": "XL"
   },
   "16839": {
     "color": "White",
