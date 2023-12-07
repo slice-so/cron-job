@@ -5,7 +5,7 @@ async function updateOrders() {
   )
 
   if (!res.ok) {
-    console.log("Could not fetch products")
+    throw new Error("Could not fetch products")
   } else {
     console.log("Updated")
   }
