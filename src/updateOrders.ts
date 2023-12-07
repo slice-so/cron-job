@@ -1,8 +1,8 @@
 async function updateOrders() {
-  // const res = await fetch("https://slice.so/api/orders/storeBasedMerch")
-  const res = await fetch(
-    "https://base-testnet.slice.so/api/orders/storeBasedMerch"
-  )
+  const res = await fetch("https://slice.so/api/orders/storeBasedMerch")
+  // const res = await fetch(
+  //   "https://base-testnet.slice.so/api/orders/storeBasedMerch"
+  // )
 
   const response = await res.json()
 
