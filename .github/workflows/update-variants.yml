@@ -1,34 +1,34 @@
-name: Update JSON Variants
+# name: Update JSON Variants
 
-on:
-  workflow_dispatch:
-  schedule:
-    # This code triggers the workflow every 12 h
-    - cron: "0 */12 * * *"
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     # This code triggers the workflow every 12 h
+#     - cron: "0 */12 * * *"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: "18" # or your desired version
+#       - name: Setup Node.js
+#         uses: actions/setup-node@v2
+#         with:
+#           node-version: "18" # or your desired version
 
-      - name: Install dependencies
-        run: npm install
+#       - name: Install dependencies
+#         run: npm install
 
-      - name: Run the script
-        run: npx ts-node src/updateVariants.ts
+#       - name: Run the script
+#         run: npx ts-node src/updateVariants.ts
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email ${{secrets.email}}
-          git config --local user.name ${{secrets.name}}
-          git add -A
-          git commit -m "Update JSON variants" || echo "No changes to commit"
-          git push
+#       - name: Commit and push changes
+#         run: |
+#           git config --local user.email ${{secrets.email}}
+#           git config --local user.name ${{secrets.name}}
+#           git add -A
+#           git commit -m "Update JSON variants" || echo "No changes to commit"
+#           git push
