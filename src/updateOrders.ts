@@ -4,12 +4,12 @@ async function updateOrders() {
     "https://base-testnet.slice.so/api/orders/storeBasedMerch"
   )
 
-  const respons = await res.json()
+  const response = await res.json()
 
   if (!res.ok) {
     throw new Error("Could not fetch products")
   } else {
-    console.log(respons)
+    console.log(response)
   }
 }
 
