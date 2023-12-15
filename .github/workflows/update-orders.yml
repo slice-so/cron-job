@@ -2,9 +2,9 @@ name: Update Orders
 
 on:
   workflow_dispatch:
-  schedule:
-    # This code triggers the workflow every hour at minute 27
-    - cron: "27 * * * *"
+  # schedule:
+  #   # This code triggers the workflow every hour at minute 27
+  #   - cron: "27 * * * *"
 
 jobs:
   build:
